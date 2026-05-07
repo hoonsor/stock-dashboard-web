@@ -1,0 +1,13 @@
+{
+  "name": "stock-dashboard-web",
+  "version": "1.0.0",
+  "description": "股票看盤軟體網頁版 - 即時股價、技術分析、自選股管理",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "build": "echo 'No build step needed for pure frontend'"
+  },
+  "keywords": ["stock", "dashboard", "finance", "trading"],
+  "author": "hoonsoropenclaw",
+  "license": "MIT"
+}
